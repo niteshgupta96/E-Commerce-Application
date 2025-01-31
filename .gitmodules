@@ -1,3 +1,6 @@
 [submodule "EcomPaymentService"]
 	path = EcomPaymentService
 	url = https://github.com/niteshgupta96/EcomPaymentService
+[submodule "EcomProductService"]
+	path = EcomProductService
+	url = https://github.com/niteshgupta96/EcomProductService
