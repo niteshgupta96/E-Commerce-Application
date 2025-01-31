@@ -1,0 +1,3 @@
+[submodule "EcomPaymentService"]
+	path = EcomPaymentService
+	url = https://github.com/niteshgupta96/EcomPaymentService
